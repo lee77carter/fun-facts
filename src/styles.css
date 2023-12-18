@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+}
+
+.App article {
+  margin: 2rem auto;
+  max-width: 500px;
+}
+
+.App article p {
+  max-width: 500px;
+  line-height: 1.5;
+}
+
+.App .fetch-fact {
+  position: fixed;
+  top: 200px;
+  /* left: 0;
+  right: 0;
+  margin: 0 calc(auto - 150px); */
+  width: 150px;
+}
