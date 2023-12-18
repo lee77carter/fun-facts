@@ -1,5 +1,9 @@
+html {
+  background-color: cornflowerblue;
+}
+
 .App {
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .App article {
@@ -20,3 +24,9 @@
   margin: 0 calc(auto - 150px); */
   width: 150px;
 }
+
+button {
+  background-color: black;
+  color:cornflowerblue;
+}
+
